@@ -1,5 +1,5 @@
 # Shader Compositor
-Proyecto final para el ramo de Geometría Computacional desarrollado junto con [ad0Iph](https://github.com/ad0Iph).
+Proyecto final para el ramo de Geometría Computacional desarrollado junto con [CaldeCrack](https://github.com/CaldeCrack).
 
 Compositor de shaders en secuencia para aplicarlos en un entorno tridimensional.
 
